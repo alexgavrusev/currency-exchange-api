@@ -1,0 +1,5 @@
+{
+  "rootDir": "../",
+  "preset": "./jest.preset.js",
+  "testRegex": ".e2e-spec.ts$"
+}
