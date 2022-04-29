@@ -43,3 +43,7 @@ $ npm run start:prod
 # e2e tests
 $ npm run test:e2e
 ```
+
+## OpenAPI
+
+Swagger UI is available on `/api/v1/docs`, and the JSON — at `api/v1/docs-json`
