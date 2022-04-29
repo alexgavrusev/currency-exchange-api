@@ -10,6 +10,10 @@ For the framework, I chose [nest](https://nestjs.com/) to get DI, testing, OpenA
 
 [fp-ts](https://github.com/gcanti/fp-ts) is used to go from `any` to a guaranteed return type with the edge-cases and errors handled in a declarative and concise way
 
+## Deployement
+
+The API is live at [https://currency-exchange-api.vercel.app](https://currency-exchange-api.vercel.app), deployed using [Vercel](https://vercel.com/)
+
 ## Installation
 
 ```bash
