@@ -1,4 +1,4 @@
-# Currency exchange API
+# Currency exchange API - IBM backend developer interview assignment
 
 ## Description
 
